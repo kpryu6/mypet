@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+.mypet_profile {
+  width: 80%;
+  margin: 50px auto 0;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px #888888;
+  padding: 20px;
+}
+
+.pet-info {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #333333;
+}
+
+.pet-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  border: 5px solid #ffffff;
+}
