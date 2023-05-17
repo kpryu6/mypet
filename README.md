@@ -1,14 +1,15 @@
 # mypet
-OpensourceSW assignment
+OpensourceSW assignment using Django
 
 ## Description
-Mypet is a web platform where you can manage your pets, connect with other pet owners, and engage in voting-based interactions.
+Mypet is a simple Django web where you can manage your pets, connect with other pet owners, and engage in voting-based interactions.
 
 ## Features
-#### showcase your beloved pets
+
+### Showcase your beloved pets
 Create profiles for your pets, including their names, ages, breeds, and descriptions. Upload adorable pictures to share with the pet-loving community.
 
-#### Voting-based interactions
+### Voting-based interactions
 Participate in fun and interactive Q&A related to pets. Share your opinions, and engage in friendly communication.
 
 </br>
